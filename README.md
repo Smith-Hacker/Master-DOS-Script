@@ -13,7 +13,7 @@ Isso esgota o pool de threads do servidor e o servidor não pode responder a out
 Você pode clonar o repositório git:
 
 * `git clone https://github.com/Smith-Hacker/Master-DOS-Script`
-* `cd Master-DOS`
+* `cd Master-DOS-Script`
 * `python Master-DOS.py site-teste.com`
 
 ### Suporte a proxy SOCKS5 para mascarar o seu IP real
